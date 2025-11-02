@@ -1,10 +1,4 @@
-class Hello{
-    public static void main(String[] args){
-        System.out.println("hello");
-    }
-}   
-
- Travel and tourism management system
+Travel and tourism management system
 1. user management 
 simple login (just user name -password)
 update user info
@@ -18,4 +12,4 @@ input payment amount for booking
 display discount travel package
 show original and discount package
 5. user feedback
-allow user to add comments about destination and packages
+allow user to add comments about destination and packagesTravel and tourism management system
