@@ -4,18 +4,4 @@ class Hello{
     }
 }   
 
- Travel and tourism management system
-1. user management 
-simple login (just user name -password)
-update user info
-2. booking management
-book a travel package
-view all the booking
-cancel a booking
-3. payment
-input payment amount for booking
-4. package offer
-display discount travel package
-show original and discount package
-5. user feedback
-allow user to add comments about destination and packages
+ 
